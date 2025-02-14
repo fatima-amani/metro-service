@@ -514,3 +514,25 @@
 2025-02-14T13:35:37.838+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-1] c.f.m.controller.StationController       : fetching name for station: 196
 2025-02-14T13:35:37.843+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-1] c.f.m.exception.GlobalExceptionHandler   : handling runtime errorStation Name not found
 2025-02-14T13:35:42.609+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-4] c.f.m.controller.StationController       : fetching email for station: 2
+2025-02-14T14:02:04.264+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-5] c.f.m.controller.StationController       : fetching name for station: 1
+2025-02-14T14:02:04.435+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-7] c.f.m.controller.StationController       : fetching name for station: 2
+2025-02-14T14:02:05.856+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-8] c.f.m.controller.StationController       : fetching name for station: 1
+2025-02-14T14:02:05.865+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-8] c.f.m.controller.StationController       : fetching name for station: 2
+2025-02-14T14:02:06.362+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-6] c.f.m.controller.StationController       : fetching name for station: 1
+2025-02-14T14:02:06.381+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-9] c.f.m.controller.StationController       : fetching name for station: 2
+2025-02-14T14:02:06.876+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-10] c.f.m.controller.StationController       : fetching name for station: 1
+2025-02-14T14:02:06.887+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-1] c.f.m.controller.StationController       : fetching name for station: 2
+2025-02-14T14:02:07.387+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-2] c.f.m.controller.StationController       : fetching name for station: 1
+2025-02-14T14:02:07.398+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-4] c.f.m.controller.StationController       : fetching name for station: 2
+2025-02-14T14:02:07.894+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-3] c.f.m.controller.StationController       : fetching name for station: 1
+2025-02-14T14:02:07.903+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-5] c.f.m.controller.StationController       : fetching name for station: 2
+2025-02-14T14:02:08.412+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-7] c.f.m.controller.StationController       : fetching name for station: 1
+2025-02-14T14:02:08.424+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-8] c.f.m.controller.StationController       : fetching name for station: 2
+2025-02-14T14:02:08.926+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-6] c.f.m.controller.StationController       : fetching name for station: 1
+2025-02-14T14:02:08.938+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-9] c.f.m.controller.StationController       : fetching name for station: 2
+2025-02-14T14:02:09.435+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-10] c.f.m.controller.StationController       : fetching name for station: 1
+2025-02-14T14:02:09.444+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-1] c.f.m.controller.StationController       : fetching name for station: 2
+2025-02-14T14:02:09.940+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-2] c.f.m.controller.StationController       : fetching name for station: 1
+2025-02-14T14:02:09.953+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-4] c.f.m.controller.StationController       : fetching name for station: 2
+2025-02-14T14:02:16.325+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-3] c.f.m.controller.StationController       : fetching name for station: 2
+2025-02-14T14:02:16.336+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-5] c.f.m.controller.StationController       : fetching name for station: 5
