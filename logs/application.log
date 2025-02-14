@@ -536,3 +536,11 @@
 2025-02-14T14:02:09.953+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-4] c.f.m.controller.StationController       : fetching name for station: 2
 2025-02-14T14:02:16.325+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-3] c.f.m.controller.StationController       : fetching name for station: 2
 2025-02-14T14:02:16.336+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-5] c.f.m.controller.StationController       : fetching name for station: 5
+2025-02-14T14:49:30.531+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-6] c.f.m.controller.StationController       : fetching active stations
+2025-02-14T14:50:06.232+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-9] c.f.m.controller.ActiveUsersController   : Fetching active users 
+2025-02-14T14:50:06.291+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-9] c.f.m.controller.ActiveUsersController   : Successfully retrieved 0 active users.
+2025-02-14T14:50:08.106+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-10] c.f.m.controller.ActiveUsersController   : Fetching active users 
+2025-02-14T14:50:08.108+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-10] c.f.m.controller.ActiveUsersController   : Successfully retrieved 0 active users.
+2025-02-14T14:50:20.572+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-1] c.f.m.controller.CheckInOutController    : Checking in
+2025-02-14T14:50:25.177+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-2] c.f.m.controller.ActiveUsersController   : Fetching active users 
+2025-02-14T14:50:25.208+05:30  INFO 35708 --- [metro-service] [http-nio-8093-exec-2] c.f.m.controller.ActiveUsersController   : Successfully retrieved 1 active users.
